@@ -162,6 +162,279 @@ function Gameloop() {
     if(timer.gte(179)) {
         document.getElementById("Lore").textContent = "IU player: You are going with me friend.. I'll be back hold him off a little more"
     }
+    if(timer.gte(184)) {
+        document.getElementById("Lore").textContent = "Jacorb: Time for the Master of Prestiges to emerge at it's full power."
+    }
+    if(timer.gte(188)) {
+        document.getElementById("Lore").textContent = "Aarex: Let me just make some speed potions."
+    }
+    if(timer.gte(191)) {
+        document.getElementById("Lore").textContent = "???: Come on try and kill me."
+    }
+    if(timer.gte(194)) {
+        document.getElementById("Lore").textContent = "(Jacorb succesfully masters booster and generator layer)"
+    } 
+    if(timer.gte(199)) {
+        document.getElementById("Lore").textContent = "(Aarex made the speed potions and made himself and Jacorb faster)"
+    }
+    if(timer.gte(203)) {
+        document.getElementById("Lore").textContent = "Hevipelle: Titonumus Get them."
+    }
+    if(timer.gte(206)) {
+        document.getElementById("Lore").textContent = "(As Jacorb and Aarex were ready to kill ??? Titonumus came)"
+    }
+    if(timer.gte(210)) {
+        document.getElementById("Lore").textContent = "Jacorb: Aarex run away.. I know how to deal with him, go find Hevipelle!"
+    }
+    if(timer.gte(215)) {
+        document.getElementById("Lore").textContent = "Aarex: But I don't want to leave you behind.."
+    }
+    if(timer.gte(219)) {
+        document.getElementById("Lore").textContent = "Jacorb: Just go and find Hevipelle.."
+    }
+    if(timer.gte(223)) {
+        document.getElementById("Lore").textContent = "(As Aarex is trying to find Hevipelle the Backrooms came to help ???)"
+    }
+    if(timer.gte(228)) {
+        document.getElementById("Lore").textContent = "Aarex: You too?! I guess I'll had to handle it myself."
+    }
+    if(timer.gte(232)) {
+        document.getElementById("Lore").textContent = "Backrooms Lord: Your time has come Acamada did escaped.. but you'll die right.. here.."
+    }
+    if(timer.gte(237)) {
+        document.getElementById("Lore").textContent = "Aarex: Bring what you got."
+    }
+    if(timer.gte(240)) {
+        document.getElementById("Lore").textContent = "(as Aarex fought against Backrooms army he was getting more and more exhausted)"
+    }
+    if(timer.gte(244)) {
+        document.getElementById("Lore").textContent = "Backrooms Lord: Your time has come.. say Goodbye to this world.."
+    }
+    if(timer.gte(248)) {
+        document.getElementById("Lore").textContent = "Aarex: I am sorry Jacorb.. I did everything I could.. Goodbye.."
+    }
+    if(timer.gte(252)) {
+        document.getElementById("Lore").textContent = "MrRedShark: Not on my watch.. realms ASSEMBLE!"
+    }
+    if(timer.gte(256)) {
+        document.getElementById("Lore").textContent = "Backrooms Lord: huh? I thought Void Lord got rid of you.."
+    }
+    if(timer.gte(260)) {
+        document.getElementById("Lore").textContent = "MrRedShark: He didn't killed me, but I killed him for good.."
+    }
+    if(timer.gte(265)) {
+        document.getElementById("Lore").textContent = "MrRedShark: Creation Realm.. show him what you got."
+    }
+    if(timer.gte(269)) {
+        document.getElementById("Lore").textContent = "(Creation Realm has created mythical creatures no one has seen)"
+    }
+    if(timer.gte(273)) {
+        document.getElementById("Lore").textContent = "Backrooms Lord: so.. you wanna play like that.. well two people can do that.."
+    }
+    if(timer.gte(278)) {
+        document.getElementById("Lore").textContent = "MrRedShark: Come on Aarex I'll get you out of here."
+    }
+    if(timer.gte(282)) {
+        document.getElementById("Lore").textContent = "Aarex: give this to Jacorb..(gives MrRedShark his bionic lab)"
+    }
+    if(timer.gte(286)) {
+        document.getElementById("Lore").textContent = "(while Creation realm and the Backrooms Lord troops were fighting. ??? tried to sneak attack Jacorb)"
+    }
+    if(timer.gte(292)) {
+        document.getElementById("Lore").textContent = "Jacorb: (stabs ???) You really think I am that stupid.. wait what!"
+    }
+    if(timer.gte(297)) {
+        document.getElementById("Lore").textContent = "(As Jacorb stabed ??? he got electriceted and he fell on the ground)"
+    }
+    if(timer.gte(302)) {
+        document.getElementById("Lore").textContent = "Jacorb: I.. will.. come for you..(dies)"
+    }
+    if(timer.gte(306)) {
+        document.getElementById("Lore").textContent = "???: Finally the master has been killed."
+    }
+    if(timer.gte(310)) {
+        document.getElementById("Lore").textContent = "tcct player: hey.. do you got my clock here?"
+    }
+    if(timer.gte(314)) {
+        document.getElementById("Lore").textContent = "IU player: yes.. I saved it up I knew you would use it greatly.."
+    }
+    if(timer.gte(319)) {
+        document.getElementById("Lore").textContent = "tcct player: thanks I'll be back.."
+    }
+    if(timer.gte(322)) {
+        document.getElementById("Lore").textContent = "???: Aarex should also be dead by now.."
+    }
+    if(timer.gte(326)) {
+        document.getElementById("Lore").textContent = "tcct player: hello again.. This time my prime is emerged.."
+    }
+    if(timer.gte(330)) {
+        document.getElementById("Lore").textContent = "???: How?! You are actually alive.. well I am gonna kill you too.."
+    }
+    if(timer.gte(335)) {
+        document.getElementById("Lore").textContent = "tcct player: I would love to see you try but I will advise you to turn around.."
+    }
+    if(timer.gte(341)) {
+        document.getElementById("Lore").textContent = "???: why it's not like Jacorb is ali-"
+    }
+    if(timer.gte(344)) {
+        document.getElementById("Lore").textContent = "Jacorb: You are dead now.."
+    }
+    if(timer.gte(348)) {
+        document.getElementById("Lore").textContent = "(Titonumus tried to kill Jacorb from behind but failed)"
+    }
+    if(timer.gte(352)) {
+        document.getElementById("Lore").textContent = "Jacorb: hm.. It would be easy if I didn't master the row 3 and row 4 layers.."
+    }
+    if(timer.gte(357)) {
+        document.getElementById("Lore").textContent = "(??? tries to use electricity to kill Jacorb but doesn't work with Jacorb's shield)"
+    }
+    if(timer.gte(363)) {
+        document.getElementById("Lore").textContent = "Jacorb: That's it! Get over here!"
+    }
+    if(timer.gte(366)) {
+        document.getElementById("Lore").textContent = "(Jacorb kills ??? and Titonumus)"
+    }
+    if(timer.gte(370)) {
+        document.getElementById("Lore").textContent = "Jacorb: thanks you really saved me."
+    }
+    if(timer.gte(373)) {
+        document.getElementById("Lore").textContent = "tcct player: no problem.. but we need to find Aarex."
+    }
+    if(timer.gte(377)) {
+        document.getElementById("Lore").textContent = "(as IU player was watching the fight between Jacorb and ??? he got met by Hevipelle)"
+    }
+    if(timer.gte(382)) {
+        document.getElementById("Lore").textContent = "IU player: AH! Not you again.. I'll kill you no matter what."
+    }
+    if(timer.gte(386)) {
+        document.getElementById("Lore").textContent = "Hevipelle: You could or my glyphs can do the job for me."
+    }
+    if(timer.gte(390)) {
+        document.getElementById("Lore").textContent = "Hevipelle: glyphs assemble!"
+    }
+    if(timer.gte(393)) {
+        document.getElementById("Lore").textContent = "(Chlarinoum, Comentinus, Colonus appeared and started attacking IU player)"
+    }
+    if(timer.gte(398)) {
+        document.getElementById("Lore").textContent = "IU player: Quantom Mathematics.. I am the choosen one to save this world.."
+    }
+    if(timer.gte(393)) {
+        document.getElementById("Lore").textContent = "IU player: QUANTOM WEAPONS NOW!"
+    }
+    if(timer.gte(396)) {
+        document.getElementById("Lore").textContent = "(Quantom weapons starts appearing killing the glyphs)"
+    } 
+    if(timer.gte(400)) {
+        document.getElementById("Lore").textContent = "Hevipelle: I always have the stuff by myself.."
+    }
+    if(timer.gte(404)) {
+        document.getElementById("Lore").textContent = "(Hevipelle creates ilusions of himself and manages to damage the IU player)"
+    }
+    if(timer.gte(409)) {
+        document.getElementById("Lore").textContent = "IU player: AGH! I really didn't want to use this.. but I have to..."
+    }
+    if(timer.gte(414)) {
+        document.getElementById("Lore").textContent  = "(IU player uses his Quantom and Galactic powers to make ilusions dissapear)"
+    }
+    if(timer.gte(419)) {
+        document.getElementById("Lore").textContent = "Hevipelle: Ugh! I guess I'll just fight you mano a mano.."
+    }
+    if(timer.gte(423)) {
+        document.getElementById("Lore").textContent = "IU player: Okay.. show me what you got.."
+    }
+    if(timer.gte(427)) {
+        document.getElementById("Lore").textContent = "(after Jacorb and tcct player were done with ??? they heared IU player fighting)"
+    }
+    if(timer.gte(432)) {
+        document.getElementById("Lore").textContent = "tcct player: Jacorb go give this to IU player while the time is stopped."
+    }
+    if(timer.gte(437)) {
+        document.getElementById("Lore").textContent = "(tcct player stopped time and Jacorb gaved the thing to IU player making him move while time is stopped)"
+    }
+    if(timer.gte(443)) {
+        document.getElementById("Lore").textContent = "IU player: huh what? oh it's you guys.."
+    }
+    if(timer.gte(448)) {
+        document.getElementById("Lore").textContent = "Jacorb: tcct player finish Hevipelle off.."
+    }
+    if(timer.gte(452)) {
+        document.getElementById("Lore").textContent = "(as tcct player was getting closer to kill Hevipelle. Hevipelle killed tcct player)"
+    }
+    if(timer.gte(457)) {
+        document.getElementById("Lore").textContent = "IU player: Jacorb RUN! I'll hold him.."
+    }
+    if(timer.gte(462)) {
+        document.getElementById("Lore").textContent = "Jacorb: But you'll die too!"
+    }
+    if(timer.gte(466)) {
+        document.getElementById("Lore").textContent = "IU player: doesn't matter if I die.. Just get as far as you can.."
+    }
+    if(timer.gte(471)) {
+        document.getElementById("Lore").textContent = "Jacorb: okay.. please don't die.."
+    }
+    if(timer.gte(474)) {
+        document.getElementById("Lore").textContent = "(Jacorb came to base and saw Aarex in a better condition)"
+    }
+    if(timer.gte(478)) {
+        document.getElementById("Lore").textContent = "Jacorb: Listen we have to send Acamada into the battlefield tcct player is dead.."
+    }
+    if(timer.gte(483)) {
+        document.getElementById("Lore").textContent = "Aarex: Oh no.. We should equip her army with the best equipment and magic.."
+    }
+    if(timer.gte(488)) {
+        document.getElementById("Lore").textContent = "(while Aarex and Jacorb where making Acamada and her army ready for the fight MrRedShark tried to fight The Backrooms Lord)"
+    }
+    if(timer.gte(495)) {
+        document.getElementById("Lore").textContent = "MrRedShark: Get over here you little bastard!"
+    }
+    if(timer.gte(499)) {
+        document.getElementById("Lore").textContent = "Backrooms Lord: I already told you I don't know where that Celestial is!"
+    }
+    if(timer.gte(504)) {
+        document.getElementById("Lore").textContent = "MrRedShark: Either you tell me or you die right NOW!"
+    }
+    if(timer.gte(508)) {
+        document.getElementById("Lore").textContent = "Backrooms Lord: Come on show me what you got!"
+    }
+    if(timer.gte(511)) {
+        document.getElementById("Lore").textContent = "(MrRedShark with ease killed Backrooms Lord)"
+    }
+    if(timer.gte(514)) {
+        document.getElementById("Lore").textContent = "(Acamada was on the way to help IU player)"
+    }
+    if(timer.gte(518)) {
+        document.getElementById("Lore").textContent  = "(when Acamada arrived she was shocked with the scene she saw)"
+    }
+    if(timer.gte(523)) {
+        document.getElementById("Lore").textContent = "(she saw how IU player was stabbed in the heart)"
+    }
+    if(timer.gte(527)) {
+        document.getElementById("Lore").textContent = "Acamada: My Empire will not let this slide death to the Glyphs League!"
+    }
+    if(timer.gte(532)) {
+        document.getElementById("Lore").textContent = "(as Acamada's army greatly fought against the glyphs she was fighting Hevipelle)"
+    }
+    if(timer.gte(537)) {
+        document.getElementById("Lore").textContent = "Acamada: This will be your last battle after what you did!"
+    }
+    if(timer.gte(542)) {
+        document.getElementById("Lore").textContent = "(As Acamada fought unfortunatley Hevipelle was too fast and stabed her)"
+    }
+    if(timer.gte(547)) {
+        document.getElementById("Lore").textContent = "Aarex & Jacorb: NOOOO!"
+    }
+    if(timer.gte(550)) {
+        document.getElementById("Lore").textContent = "(Aarex & Jacorb out of rage started rapidly attacking Hevipelle)"
+    }
+    if(timer.gte(554)) {
+        document.getElementById("Lore").textContent = "Hevipelle: How did you became so strong?"
+    }
+    if(timer.gte(557)) {
+        document.getElementById("Lore").textContent = "MrRedShark: I am sorry friend.."
+    }
+    if(timer.gte(560)) {
+        document.getElementById("Lore").textContent = "(Hevipelle has died but at cost of IU player and tcct player dead)"
+    }
     document.getElementById("Crafting-power").textContent = "You have " + formatWhole(player.Crafting_power) + " Crafting power"
     document.getElementById("Stone").textContent = formatWhole(player.Stone) + " Stone"
     document.getElementById("Wood").textContent = formatWhole(player.Wood) + " Wood"
